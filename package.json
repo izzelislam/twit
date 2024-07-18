@@ -24,6 +24,7 @@
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.11.4",
     "@types/bcrypt": "^5.0.2",
+    "nuxt-headlessui": "^1.2.0",
     "prisma": "^5.14.0"
   }
 }
